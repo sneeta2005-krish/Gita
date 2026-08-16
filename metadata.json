@@ -1,0 +1,6 @@
+{
+  "name": "Bhagavad Gita — Timeless Wisdom for Modern Life",
+  "description": "An interactive, elegant, and peaceful digital exploration of the Bhagavad Gita teachings inspired by Lord Krishna and Arjuna on Kurukshetra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
