@@ -6,7 +6,7 @@ export const HERO_DATA = {
   description:
     "Ancient wisdom from the dialogue between Lord Krishna and Arjuna — offering guidance on duty, the mind, balance, purpose, and the path to inner peace.",
   quote: "Act with wisdom. Live with purpose. Remain steady.",
-  heroImage: "/images/krishna-arjuna-gita.png",
+  heroImage: "/images/krishna_arjuna_hero.jpg",
   panoramicImage: "/images/krishna_dialogue_wide_1786865237734.jpg",
   lotusImage: "/images/lotus_divine_calm_1786865254933.jpg",
 };
